@@ -1097,7 +1097,7 @@ function fixParsedHtml(_0x59c9f5, _0x3d094a) {
             }
         }
         _0x136ee1[_0x12eed0(0x360)] = _0xada03e,
-        fetch('https://versaillestokyo.com/cart/add.js', _0x136ee1)
+        fetch('https://www.versaillestokyo.com/cart/add.js', _0x136ee1)
     [_0x12eed0(0x3e2)](_0x5e18a1 => _0x5e18a1[_0x12eed0(0x33a)]())
     [_0x12eed0(0x3e2)](_0x1c973a => {
         const _0x1f7fa9 = _0x12eed0;
